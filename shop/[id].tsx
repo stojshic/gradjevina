@@ -1,0 +1,1 @@
+<div className='p-8'>Detalji proizvoda</div>
